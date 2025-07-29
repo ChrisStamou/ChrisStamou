@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Chris Stamou
 
-<!--
-**ChrisStamou/ChrisStamou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics MSc** from Leiden University turned **Data Analyst**, passionate about statistical inference, complex modeling, and solving real-world problems through data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I Do
+
+- 🧠 Build probabilistic models (Bayesian & Frequentist)
+- 🧪 Analyze large-scale scientific datasets
+- 🐍 Write clean, modular Python for data analysis and simulation
+- 🔭 Specialize in MCMC, Nested Sampling, and Cosmological modeling
+- 📊 Visualize data clearly and tell insightful stories
+
+---
+
+## 📂 Featured Projects
+
+- 🎓 [Impact of Late-Time Transition in SnIa Luminosity](https://github.com/ChrisStamou/Thesis-2025)  
+  *MSc Thesis — MCMC, Nested Sampling, parameter estimation*
+
+- 🌀 [Combining Weak Lensing and Galaxy Polarization](https://github.com/Chrisostomos-Stamou/Combining-Weak-Lensing-and-Galaxy-Light-Polarisation)  
+  *Advanced estimator design + Python simulations*
+
+---
+
+## 🧰 Languages & Tools
+
+`Python` · `Matplotlib` · `NumPy` · `Pandas` · `LaTeX` · `SQL` · `emcee` · `dynesty` · `treecorr` · `Power BI`
+
+---
+
+## 🚀 Looking for...
+
+An opportunity in **Data Analysis or Consulting** where I can bring scientific rigor, critical thinking, and a problem-solving mindset to practical challenges.
+
+---
+
+## 📫 Contact
+
+- 📧 c.p.stamou@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chris-stamou)  
+- 🔗 [My CV](https://github.com/Chrisostomos-Stamou/Chrisostomos-Stamou/raw/main/Stamou_CV.pdf)
