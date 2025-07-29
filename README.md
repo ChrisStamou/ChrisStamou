@@ -40,4 +40,4 @@ An opportunity in **Data Analysis or Consulting** where I can bring scientific r
 
 - 📧 c.p.stamou@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chris-stamou)  
-- 🔗 [My CV](https://github.com/Chrisostomos-Stamou/Chrisostomos-Stamou/raw/main/Stamou_CV.pdf)
+- 🔗 [My CV](https://github.com/ChrisStamou/ChrisStamou/blob/main/Stamou_CV.pdf)
