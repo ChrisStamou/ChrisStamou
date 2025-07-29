@@ -20,7 +20,7 @@
   *MSc Thesis — MCMC, Nested Sampling, parameter estimation*
 
 - 🌀 [Combining Weak Lensing and Galaxy Polarization](https://github.com/Chrisostomos-Stamou/Combining-Weak-Lensing-and-Galaxy-Light-Polarisation)  
-  *Advanced estimator design + Python simulations*
+  *MSc Thesis - Advanced estimator design + Python simulations*
 
 ---
 
