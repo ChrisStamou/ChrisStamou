@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chris Stamou
 
-**Physics MSc** from Leiden University turned **Data Analyst**, passionate about statistical inference, complex modeling, and solving real-world problems through data.
+**Physics MSc** from Leiden University turned **Data Analyst**, passionate about statistical inference, complex modeling, and applying AI/ML to deliver measurable business value through data-driven decision-making.
 
 ---
 
