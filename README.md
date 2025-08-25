@@ -16,6 +16,9 @@
 
 ## 📂 Featured Projects
 
+- 🤖 [Fraud Risk Ranking for Vehicle Insurance (AI Business Case)](https://github.com/ChrisStamou/AI-Case-Insurance-Fraud-Detection-with-AI)  
+  *First AI project — Logistic Regression vs Random Forest on synthetic data (5,000 claims), ROC AUC 0.898 with workload cut by 75% and 3.3× investigator efficiency*
+
 - 🎓 [Impact of Late-Time Transition in SnIa Luminosity](https://github.com/ChrisStamou/Thesis-2025)  
   *MSc Thesis — MCMC, Nested Sampling, parameter estimation*
 
